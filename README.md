@@ -1,6 +1,6 @@
 # Next-JS-El-framework-de-React-para-produccion
 
-Link del curso:
+Link del curso: https://www.udemy.com/course/nextjs-fh/
 
 Profesor: [Fernando Herrera](https://fernando-herrera.com/#/)
 
