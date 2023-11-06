@@ -1,0 +1,8 @@
+services:
+  entriesdb:
+    image: mongo:5.0.0
+    container_name: entries-database
+    ports:
+      - 27017:27017 #puerto_mi_pc:puerto_imagen_docker
+    volumes:
+      - ./mongo:/data/db
