@@ -30,7 +30,7 @@ Profesor: [Fernando Herrera](https://fernando-herrera.com/#/)
 - Librerías de 3ros.
 - Incremental Static Regeneration (ISR) y Incremental Static Generation (ISG).
 
-### Seccion 7, 8, 9, 10: OpenJira _(En Curso, Sección 8)_
+### Seccion 7, 8, 9, 10: OpenJira _(En Curso, Sección 10)_
 
 - Manejo de contexto
 - Material UI y themes
